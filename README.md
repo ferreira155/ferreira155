@@ -1,6 +1,6 @@
-- 👋 Hi, I’m ferreira
+- 👋 Hi, I’m Ferreira
 - 👀 I’m interested in in women
-- ## Hi Luan here👋
+- ## Hi Ferreira here👋
 ### Languages :
 
 <table>
